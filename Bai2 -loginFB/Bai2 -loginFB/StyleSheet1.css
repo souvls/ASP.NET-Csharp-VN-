@@ -1,0 +1,148 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap');
+
+:root {
+    --main-color: #4267B2;
+    --Grey-color: #898F9C;
+    --back-color: #0000;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+header {
+    background-color: var(--main-color);
+    box-shadow: 2px 2px 4px #000000;
+}
+
+nav {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.nav-brand {
+    margin-right: auto;
+}
+
+    .nav-brand a {
+        color: white;
+        font-size: 3rem;
+    }
+
+.form-login {
+    display: flex;
+    flex-direction: row;
+}
+
+.wrapper {
+    margin: .3rem 1rem;
+}
+
+    .wrapper label {
+        font-size: 16px;
+        color: white;
+    }
+
+        .wrapper label a {
+            color: var(--Grey-color);
+        }
+
+.form-login input[type=text],
+input[type=password] {
+    margin-top: .2rem;
+    width: 15rem;
+    padding: .2rem;
+}
+
+.btn-login {
+    color: white;
+    background-color: #263b64;
+    margin-top: .2rem;
+    padding: .3rem;
+    box-shadow: 2px 2px 4px #000000;
+    border: none;
+}
+
+.main-content {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.content-1 {
+    margin-right: auto;
+}
+
+    .content-1 p {
+        color: var(--main-color);
+        font-weight: 800;
+        margin: 1rem 18rem 2rem 0;
+        font-size: 22px;
+        font-weight: 800;
+    }
+
+.content-2 {
+    margin: 1rem 0 0 3rem;
+}
+
+    .content-2 a {
+        color: var(--main-color);
+    }
+
+    .content-2 h1 {
+        margin: 1rem 0 .5rem 0;
+    }
+
+    .content-2 p {
+        margin: .5rem 0 1rem 0;
+    }
+
+.form-register .input-name {
+    font-size: 18px;
+    width: 45%;
+    padding: .5rem;
+    border-radius: 4px;
+    margin-bottom: 1rem;
+}
+
+.form-register input[type=text],
+.form-register input[type=password] {
+    font-size: 18px;
+    width: 90%;
+    padding: .5rem;
+    border-radius: 4px;
+    margin-bottom: 1rem;
+    outline-color: #898F9C;
+}
+
+.date {
+    margin-bottom: 1rem;
+}
+
+select {
+    width: 50px;
+    padding: .3rem;
+}
+
+.btn-register {
+    width: 50%;
+    margin: 1rem 0 1rem 0;
+    padding: .5rem 1rem .5rem 1rem;
+    background-color: green;
+    border-radius: 4px;
+    color: white;
+    font-size: 18px;
+    outline: none;
+}

@@ -1,0 +1,59 @@
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\bin\Bai2 -loginFB.dll.config
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\bin\Bai2 -loginFB.dll
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\bin\Bai2 -loginFB.pdb
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\bin\roslyn\csc.exe
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\bin\roslyn\csc.exe.config
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\bin\roslyn\csc.rsp
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\bin\roslyn\csi.exe
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\bin\roslyn\csi.exe.config
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\bin\roslyn\csi.rsp
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\bin\roslyn\Microsoft.Managed.Core.targets
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\bin\roslyn\System.AppContext.dll
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\bin\roslyn\System.Collections.Immutable.dll
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\bin\roslyn\System.Console.dll
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\bin\roslyn\System.Globalization.Calendars.dll
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\bin\roslyn\System.IO.Compression.dll
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\bin\roslyn\System.IO.FileSystem.dll
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\bin\roslyn\System.Net.Http.dll
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\bin\roslyn\System.Net.Sockets.dll
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\bin\roslyn\System.Reflection.Metadata.dll
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\bin\roslyn\System.ValueTuple.dll
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\bin\roslyn\System.Xml.XmlDocument.dll
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\bin\roslyn\System.Xml.XPath.dll
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\bin\roslyn\vbc.exe
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\bin\roslyn\vbc.exe.config
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\bin\roslyn\vbc.rsp
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\bin\roslyn\VBCSCompiler.exe
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\bin\roslyn\VBCSCompiler.exe.config
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\obj\Debug\Bai2 -loginFB.csproj.AssemblyReference.cache
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\obj\Debug\Bai2 -loginFB.csproj.CoreCompileInputs.cache
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\obj\Debug\Bai2 -loginFB.csproj.CopyComplete
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\obj\Debug\Bai2 -loginFB.dll
+E:\BaiHocNam2\part1\microsoft .net\BaiLam\Bai2 -loginFB\Bai2 -loginFB\obj\Debug\Bai2 -loginFB.pdb
